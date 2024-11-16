@@ -10,12 +10,14 @@ My first repository
 : Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.
 
 **Characters**
+
 |*Zaun*|
 1. Jinx : The future Loose Cannon, the youngest of a group of Zaunite street kids who desperately wants to be useful to her family, especially her big sister. By Act 2 she's become Silco's most dangerous enforcer, and she grows increasingly more destructive and unstable as she sinks deeper into her "Jinx" persona over the season.
 2. Vi : The future Piltover Enforcer, a rough-and-tumble young lady just trying to get by and look out for the people she loves.
 3. Silco : A severely scarred Zaunite crime boss with a grudge against Vander. He functions as the Arc Villain of season 1.
 4. Vander : A Zaunite bartender who took Vi and Powder in after their parents died.
 5. Ekko : The future Boy Who Shattered Time, a young mechanic who is friends with Vi and her group.
+
 | *Pilover* |
 1. Jayce : The future Defender of Tomorrow, an inventor determined to prove that science can give anyone the power of magic.
 2. Viktor : The future Machine Herald, a research assistant who decides to throw his lot in with Jayce and Hextech. Growing up in Zaun's toxic atmosphere has left him chronically ill.
